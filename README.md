@@ -1,13 +1,19 @@
-<h1 alige="center">
-<img src/>
-</h1>
-
 <div align="center">
-   Aluno do SENAI Jandira
+   プログラマ
+   <br>
+   系👾Aluno do SENAI Jandira👾開発
+   <br>
+   Desde 2024
 </div>
 
-![oie_1502645dM9OO6ID](https://github.com/moh4b-z/moh4b-z/assets/77904933/b3075daf-0fb5-47be-aab7-8899f934ddae)
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh4b-z&hide_progress=true&theme=dracula">
+   
+   <img width="100" height="100" src="https://github.com/moh4b-z/moh4b-z/assets/77904933/b3075daf-0fb5-47be-aab7-8899f934ddae"> 
+</div>
 
-
-
-[![7fbaabbf2052e402ae25c7245c2ad118-transformed](https://github.com/moh4b-z/moh4b-z/assets/77904933/7b7863f2-80da-41af-8a2f-12e923b82d67)](https://anilist.co/user/MohammadAvestruz/)
+<div align="center">
+   <a href="https://anilist.co/user/MohammadAvestruz/">
+      <img width="750" height="250" src="https://github.com/moh4b-z/moh4b-z/assets/77904933/7b7863f2-80da-41af-8a2f-12e923b82d67">
+   </a>
+</div>
