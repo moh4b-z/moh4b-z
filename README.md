@@ -1,7 +1,7 @@
 <div align="center">
-   <h1>
+   <h3>
    プログラマ
-   </h1>
+   </h3>
    系👾Aluno do SENAI Jandira👾開発
    <br>
    Pintor e desenhista nas horas que eu quero
