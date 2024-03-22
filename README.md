@@ -26,12 +26,6 @@
 </div>
 
 <div align="center">
-   <a href="https://anilist.co/user/MohammadAvestruz/">
-      <img width="750" height="250" src="https://github.com/moh4b-z/moh4b-z/assets/77904933/7b7863f2-80da-41af-8a2f-12e923b82d67">
-   </a>
-</div>
-
-<div align="center">
    <h2>
       <img width="55" height="55" src="https://github.com/moh4b-z/moh4b-z/assets/77904933/1a1731e2-3f34-49d2-9b50-e9ad7e7aa8a9">
       🌑O final da Ranni é o melhor sim(Elden Ring)🌑
