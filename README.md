@@ -16,7 +16,7 @@
 
    <img width="100" height="100" src="https://github.com/moh4b-z/moh4b-z/assets/77904933/b3075daf-0fb5-47be-aab7-8899f934ddae">
 <br>
-   <img width="450" height="225" src="https://github-readme-stats.vercel.app/api?username=moh4b-z&show_icons=true&theme=dracula&bg_color=00000000&border_color=00000000&rank_icon=github&ring_color=8dd5ed">
+   <img width="450" height="225" src="https://github-readme-stats.vercel.app/api?username=moh4b-z&show_icons=true&theme=dracula&bg_color=00000000&border_color=00000000&rank_icon=github&ring_color=8dd5ed&include_all_commits=true">
    
 </div>
 
