@@ -12,7 +12,7 @@
 <div align="center">
    <img width="100" height="100" src="https://github.com/moh4b-z/moh4b-z/assets/77904933/b3075daf-0fb5-47be-aab7-8899f934ddae"> 
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh4b-z&layout=compact&langs_count=8&theme=dracula&bg_color=00000000&border_color=00000000&locale=pt-br">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh4b-z&layout=compact&langs_count=12&theme=dracula&bg_color=00000000&border_color=00000000&locale=pt-br">
 
    <img width="100" height="100" src="https://github.com/moh4b-z/moh4b-z/assets/77904933/b3075daf-0fb5-47be-aab7-8899f934ddae">
 <br>
