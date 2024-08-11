@@ -3,10 +3,6 @@
    プログラマ
    </h3>
    系👾Aluno do SENAI Jandira👾開発
-   <br>
-   Pintor e desenhista nas horas que eu quero
-   <br>
-   🤙Desde 2021 no Git porém colocando nada aqui🤙
 </div>
 
 <div align="center">
@@ -20,9 +16,12 @@
    
 </div>
 
+
+
 <div align="center">
    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+   <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />     
    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -31,8 +30,5 @@
 </div>
 
 <div align="center">
-   <h2>
-      <img width="55" height="55" src="https://github.com/moh4b-z/moh4b-z/assets/77904933/1a1731e2-3f34-49d2-9b50-e9ad7e7aa8a9">
-      <img width="55" height="55" src="https://github.com/moh4b-z/moh4b-z/assets/77904933/1a1731e2-3f34-49d2-9b50-e9ad7e7aa8a9">
-   </h2>
+   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 </div>
