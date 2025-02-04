@@ -4,17 +4,18 @@
    </h3>
 </div>
 
+<div width="100%" align="center">
+    <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=moh4b-z&show_icons=true&theme=dracula&bg_color=00000000&border_color=00000000&rank_icon=github&ring_color=8dd5ed&include_all_commits=true">
+   <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh4b-z&layout=compact&langs_count=8&theme=dracula&bg_color=00000000&border_color=00000000&locale=pt-br">
+</div>
+
 <div align="center">
   <a href="https://github.com/moh4b-z">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=moh4b-z&theme=dracula&hide_border=true&exclude_days=Sun" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=moh4b-z&hide_border=true&exclude_days=Sun&theme=transparent" />
   </a>
 </div>
 
-<div width="100%" align="center">
-    <img width="49%" height="225px" src="https://github-readme-stats.vercel.app/api?username=moh4b-z&show_icons=true&theme=dracula&bg_color=00000000&border_color=00000000&rank_icon=github&ring_color=8dd5ed&include_all_commits=true">
-   <img width="49%" height="225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh4b-z&layout=compact&langs_count=8&theme=dracula&bg_color=00000000&border_color=00000000&locale=pt-br">
-  
-</div>
+
 
 <div align="center">
    
@@ -43,7 +44,7 @@
 </div>
 <div align="center">
    <a href="https://github.com/moh4b-z">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moh4b-z&theme=dracula" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moh4b-z&theme=transparent" />
   </a>
 </div>
 
