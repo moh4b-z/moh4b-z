@@ -11,10 +11,8 @@
 </div>
 
 <div width="100%" align="center">
-  <a href="https://github.com/moh4b-z">
     <img width="49%" height="225px" src="https://github-readme-stats.vercel.app/api?username=moh4b-z&show_icons=true&theme=dracula&bg_color=00000000&border_color=00000000&rank_icon=github&ring_color=8dd5ed&include_all_commits=true">
    <img width="49%" height="225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh4b-z&layout=compact&langs_count=8&theme=dracula&bg_color=00000000&border_color=00000000&locale=pt-br">
-  </a>
   
 </div>
 
