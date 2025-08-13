@@ -37,9 +37,4 @@
    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
 </div>
-<div align="center">
-   <a href="https://github.com/moh4b-z">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moh4b-z&theme=transparent" />
-  </a>
-</div>
 
