@@ -4,9 +4,9 @@
    </h3>
 </div>
 
-<div width="100%" align="center">
-    <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=moh4b-z&show_icons=true&theme=dracula&bg_color=00000000&border_color=00000000&rank_icon=github&ring_color=8dd5ed&include_all_commits=true">
-   <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh4b-z&layout=compact&langs_count=8&theme=dracula&bg_color=00000000&border_color=00000000&locale=pt-br">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moh4b-z&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh4b-z&layout=compact&langs_count=8&theme=dracula&locale=pt-br" />
 </div>
 
 <div align="center">
@@ -35,6 +35,5 @@
 
 <div align="center">
    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-   <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
 </div>
 
